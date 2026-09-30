@@ -1,0 +1,300 @@
+TRUEFORM DIGITAL
+
+INTERNAL TEAM GUIDELINES & BUSINESS PLAN
+
+Founder: Manan Sharma
+Tagline: Design that works, results that last.
+Document Type: Internal Use Only
+Date: September 28, 2026
+
+1. COMPANY VISION & DIRECTION
+
+Company Overview
+Trueform Digital is a professional digital solutions company focused on helping businesses
+establish a strong online presence. Our goal is to create modern, attractive, responsive, and
+user-friendly websites that help businesses present their products and services professionally
+online.
+Our Vision
+Our vision is to build a trusted digital solutions company that helps businesses grow through
+technology, creativity, and innovation. We want to provide professional website development
+services while building long-term relationships with our customers.
+Our Brand Identity
+Trueform Digital represents professionalism, modern design, reliability, and technology. Every
+website we create should reflect quality, clarity, and attention to detail. Our tagline is "Design
+that works, results that last."
+
+2. OUR CURRENT & FUTURE SERVICES
+
+Current Service: Website Development
+At the initial stage, our main focus will be website development. We will create websites for
+businesses, startups, and individuals according to their requirements. Our services may include
+responsive website design, custom UI, basic SEO, website prototypes, and CMS integration
+depending on the selected package and project scope.
+
+Future Services
+
+As our company grows, we plan to expand into video editing, AI chatbots, and automation
+services. These services will be introduced gradually after we establish a strong foundation in
+website development. For now, our priority is to deliver quality websites, build our portfolio, and
+attract customers.
+
+3. STARTER WEBSITE PLAN -- INDIA
+
+Price Range: 13,000-20,000
+
+The Starter Plan is designed for small businesses, startups, and individuals who need a simple
+and professional online presence. This package includes a website with one to three pages,
+designed to present essential business information, services, and contact details.
+
+This plan is suitable for customers who want to introduce their business online without requiring
+advanced functionality. Any additional features outside the agreed scope should be discussed
+and priced separately.
+
+4. BUSINESS WEBSITE PLAN -- INDIA
+
+Price Range: 30,000-40,000
+
+The Business Plan is designed for growing businesses that need a more complete website. It
+includes four to seven pages, responsive design for mobile phones and desktop devices, and
+basic SEO setup.
+
+This package is suitable for businesses that want to present their services in greater detail and
+provide visitors with a more organized browsing experience. The final price will depend on the
+exact requirements, content, and features agreed upon with the customer.
+5. PROFESSIONAL WEBSITE PLAN --
+INDIA
+
+Price Range: 40,000-70,000
+The Professional Plan is intended for businesses that require a more customized website. It
+may include custom user interface design, animations, and CMS integration depending on the
+project's scope and requirements.
+This package allows us to develop a more distinctive online presence tailored to the customer's
+brand and objectives. Before confirming the price, we must understand the required
+functionality, design complexity, and technical requirements. Any additional features must be
+included in the written proposal.
+
+6. INTERNATIONAL WEBSITE PRICING
+
+For customers outside India, Trueform Digital will use the following pricing ranges: the Starter
+Plan costs 350-400, the Business Plan costs 450-600, and the Professional Plan costs 700-
+1,000.
+The Starter Plan is intended for customers who need a basic website, while the Business Plan
+offers additional pages, responsive design, and basic SEO. The Professional Plan is intended
+for projects requiring custom UI, animations, or CMS integration depending on scope.
+These prices are starting guidelines for discussions with international customers. Before
+confirming any project, we must understand the customer's requirements, confirm the
+deliverables, and provide a clear final quotation.
+
+7. WEBSITE MAINTENANCE PLANS
+
+Indian Customers: 2,000-5,000 per month
+International Customers: 50-100 per month
+Website maintenance is an optional recurring service for customers who need support after their
+websites are delivered. Depending on the selected maintenance arrangement, it may include
+minor content updates, basic technical checks, small changes, and general website support.
+
+Before accepting a maintenance agreement, we must clearly explain what is included, how
+much support is provided, and which tasks may involve additional charges. Maintenance fees
+are separate from the original website development price.
+
+8. INTERNAL PRICING & NEGOTIATION
+POLICY
+
+Maximum Starter Plan Discount: 2,000
+
+Our pricing policy is designed to keep negotiations consistent and protect the value of our work.
+When discussing the Starter Plan with a customer, we may negotiate the price if there is a
+reasonable business need. However, the discount must never exceed 2,000 from the
+applicable quoted price.
+
+For example, if the original quotation is 15,000, the maximum discount is 2,000, meaning the
+lowest permitted price under this rule is 13,000. If the original quotation is 20,000, the lowest
+permitted price is 18,000.
+
+We should not immediately offer a discount when a customer asks for a lower price. First, we
+should understand the customer's budget and requirements, explain the value of our service,
+and consider whether the scope can be simplified.
+
+This specific negotiation rule applies to the Starter Plan. Discounts on the Business and
+Professional Plans should not be offered without internal approval. Every final quotation must
+clearly state the agreed price and project scope.
+
+9. PROJECT WORKFLOW & DELIVERY
+TIMELINE
+
+Step 1: Understand Customer Requirements
+Before starting any project, we must understand the customer's business, target audience,
+required pages, desired features, design preferences, budget, and expected deadline. This
+helps us select the right package and avoid misunderstandings.
+
+Step 2: Prepare the Proposal
+
+After understanding the requirements, we should prepare a proposal that explains the selected
+package, features, price, delivery timeline, payment terms, and any exclusions. The customer
+should approve the proposal before development begins.
+
+Step 3: Prototype Development
+
+Our target is to prepare an initial website prototype within approximately two days after receiving
+the necessary information and materials. The prototype allows the customer to review the
+proposed design and provide feedback.
+
+Step 4: Website Development
+
+Once the design direction and requirements are approved, we begin building the complete
+website. We must ensure that the website follows the agreed design, works correctly, and
+adapts to different screen sizes.
+
+Step 5: Testing & Final Delivery
+
+After development, we review the website, check its functionality, test responsiveness, and
+complete the agreed revisions. The target delivery time for the full website is approximately five
+to six days, depending on project complexity, customer feedback, and the availability of required
+materials.
+
+These timelines are targets rather than unconditional guarantees. If a project requires additional
+features or changes, we must communicate any timeline adjustments to the customer.
+
+10. PAYMENT TERMS & FINANCIAL
+RULES
+
+Standard Payment Structure: 50% Upfront and 50% on Delivery
+
+Our standard payment policy requires the customer to pay 50% of the agreed project price
+upfront before development begins. The remaining 50% is payable upon completion according
+to the agreed delivery and handover terms.
+For example, if a website costs 20,000, the customer pays 10,000 upfront and the remaining
+10,000 at the agreed final payment stage.
+All prices, additional charges, and payment expectations must be confirmed in writing. Any work
+outside the agreed project scope should be discussed and approved before additional work
+begins.
+
+11. DOMAIN & HOSTING POLICY
+
+Trueform Digital will help customers manage domain registration and hosting setup. We will
+guide them in selecting suitable services and assist with the configuration required to make their
+websites accessible online.
+Domain registration and hosting expenses are separate from our website development service
+fee. The customer will pay these third-party costs directly, while Trueform Digital provides the
+agreed setup assistance.
+Whenever possible, the domain and hosting accounts should remain under the customer's
+ownership and control. We must explain renewal costs and other recurring expenses clearly
+before the customer commits to a service.
+
+12. TEAM RESPONSIBILITIES
+
+Founder -- Manan Sharma
+The founder will oversee business direction, customer communication, pricing decisions, project
+coordination, quality control, and overall company development. The founder will also help
+maintain the company's professional identity and manage business promotion.
+Design Responsibilities
+The design team will work on website layouts, UI design, color schemes, typography, visual
+consistency, and prototypes. Their goal is to ensure that every website looks professional and
+represents the customer's brand effectively.
+Development Responsibilities
+The development team will handle website implementation, functionality, responsive behavior,
+technical integration, testing, and bug fixing. They must ensure that the delivered website meets
+the approved requirements.
+
+Marketing & Business Development
+
+The team responsible for marketing will help promote Trueform Digital, identify potential
+customers, showcase completed work, and maintain a professional brand image. Team
+members should coordinate regularly so that customer communication and project delivery
+remain consistent.
+
+Responsibilities may be adjusted according to team size, experience, and project requirements.
+
+13. MARKETING & BUSINESS GROWTH
+
+During the initial stage, our marketing efforts should focus on building credibility and attracting
+website development customers. We should create a professional company website, maintain
+active social media profiles, and showcase our work through portfolio projects and
+demonstrations.
+
+We should also contact relevant businesses professionally, explain how our services can meet
+their needs, and maintain a record of customer enquiries. After completing projects successfully,
+we can request feedback and testimonials with the customer's permission.
+
+As the company develops a stronger portfolio and customer base, we can gradually introduce
+video editing, AI chatbots, and automation services. Our growth strategy should focus on
+service quality, customer trust, and consistent improvement.
+
+14. CUSTOMER COMMUNICATION &
+PROFESSIONAL BEHAVIOUR
+
+Every team member should communicate with customers politely, clearly, and professionally.
+Before discussing prices, we should understand the customer's needs and explain the most
+suitable package without making unrealistic promises.
+We must clearly explain what is included in each package, what costs extra, how long delivery
+may take, and how payments will be handled. Important decisions, quotations, changes, and
+approvals should be documented in writing.
+If a customer requests additional features, we should evaluate the extra work, communicate any
+additional costs, and obtain approval before proceeding. We should never promise functionality
+or deadlines that the team cannot reasonably deliver.
+
+15. IMPORTANT INTERNAL GUIDELINES
+
+All team members should follow the company's agreed pricing policy, project workflow, and
+communication standards. We should maintain transparency with customers, respect deadlines,
+protect customer information, and take responsibility for our assigned work.
+We should avoid accepting projects without understanding their requirements, promising
+unrealistic delivery dates, or making unapproved pricing changes. Every project should have a
+clear scope, assigned responsibilities, agreed payment terms, and a defined delivery process.
+Our main objective is to build a reliable business reputation by delivering quality websites and
+maintaining strong customer relationships.
+
+16. COMPANY CONTACT INFORMATION
+
+Company Name: Trueform Digital
+Founder: Manan Sharma
+Email: trueform.digitals@gmail.com
+Mobile / WhatsApp: +91 9328731251
+Company Tagline: Design that works, results that last.
+
+17. QUICK CUSTOMER CONVERSATION
+GUIDE
+Introduction
+
+Hello! My name is Manan Sharma, and I'm the founder of Trueform Digital. We help businesses
+establish a professional online presence through modern, responsive, and user-friendly
+websites.
+
+Understanding Requirements
+
+Before recommending a package, I would like to understand your business, the purpose of your
+website, the pages and features you need, and your expected timeline.
+
+Explaining Our Packages
+
+We offer Starter, Business, and Professional website development packages. Each package is
+designed for different requirements and budgets. Once I understand your needs, I can
+recommend a suitable option and provide a clear quotation.
+
+Explaining the Timeline and Payment
+
+We aim to share an initial prototype within approximately two days, with complete website
+delivery typically taking five to six days depending on the project scope. Our standard payment
+structure is 50% upfront and 50% upon completion, according to the agreed terms.
+
+Closing the Conversation
+
+Once we finalize your requirements, we will prepare a proposal outlining the website features,
+price, timeline, and payment terms. Thank you for considering Trueform Digital. We look forward
+to helping your business build a strong online presence.
+
+FINAL NOTE FOR THE TEAM
+
+Trueform Digital's current priority is website development. Every team member should focus on
+quality, professional communication, clear project scope, responsible pricing, and timely
+delivery.
+
+Our goal is to build a strong portfolio, establish customer trust, and grow the business gradually.
+Future services such as video editing, AI chatbots, and automation can be introduced when the
+company is ready.
+
+TRUEFORM DIGITAL
+Design that works, results that last.
+
+Internal Document -- For Team Reference Only
+
